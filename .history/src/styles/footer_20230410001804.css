@@ -1,0 +1,15 @@
+.footer{
+    padding: 50px 0px;
+    background: #fde4e4;
+}
+
+
+.footer__logo img{
+    width: calc(100% - 70%);
+}
+
+
+.delivery__time-item{
+
+}
+

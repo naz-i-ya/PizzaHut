@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.logo img{
+    width: 40%;
+    object-fit: contain;
+}

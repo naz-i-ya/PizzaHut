@@ -1,0 +1,10 @@
+.cart__item-info img{
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+}
+
+.cart__product-title{
+    font-size: 0.8rem;
+    font-weight: 600;
+}

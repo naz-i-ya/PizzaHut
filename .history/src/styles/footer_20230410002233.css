@@ -1,0 +1,27 @@
+.footer{
+    padding: 50px 0px;
+    background: #fde4e4;
+}
+
+
+.footer__logo img{
+    width: calc(100% - 80%);
+    margin-bottom: 15px;
+}
+
+.footer__logo h5{
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+.footer__logo p{
+    font-size: .9rem;
+    color: #999;
+    line-height: 28px;
+}
+
+.delivery__time-item{
+
+}
+

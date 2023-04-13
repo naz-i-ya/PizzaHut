@@ -1,0 +1,34 @@
+.product__item{
+    border: 1px solid #fde4e4;
+    text-align: center;
+    padding: 30px;
+    cursor: pointer;
+}
+
+.product__img{
+    margin-bottom: 20px;
+    transition: 0.4s;
+}
+
+.product__item a{
+    text-decoration: none;
+}
+
+.product__img:hover {
+    transform: scale(1.2);
+}
+
+.product__content h5 a{
+    color: #212245;
+    font-size: 1rem;
+}
+
+.product__content h5{
+    margin-bottom: 20px;
+}
+
+.product__price{
+    font-weight: 600;
+    font-size: 1.2rem;
+    color: #212245;
+}
